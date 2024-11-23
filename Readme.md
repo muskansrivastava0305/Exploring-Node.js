@@ -1,5 +1,5 @@
 # Introduction of Node.Js
-* ```pen-source, server-side``` JavaScript runtime.
+* ```0pen-source, server-side``` JavaScript runtime.
 * ALLows you to run ```JavaScript``` on Your machine
 * Built on the ```V8 JavaScript engine``` for speed.
 * Robust ecosystem with ```npm```.
