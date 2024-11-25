@@ -73,5 +73,5 @@ Node.js comes with ```built-in API``` (like fs for file system or http for serve
 
 ### Is it a Language or a Framework?
 
-Node.js is not a programming language or a framework . but rather a Javascript runtime environmentn= the allows developers to run javaScript outside of vrowser
+Node.js is not a programming language or a framework . but rather a Javascript runtime environment the allows developers to run javaScript outside of browser
 
