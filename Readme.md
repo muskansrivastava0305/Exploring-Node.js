@@ -56,3 +56,22 @@ Node.js comes with ```built-in API``` (like fs for file system or http for serve
 **Scalable for Modern Applications:**
 
 - Ideal for real-time application like chat apps streaming platforms or online games.
+
+## Where is Node.js Used?
+
+*Examples of Companies Using Node.js*
+
+**Netflix:** To deliver faster streaming  experiences.
+
+**Linkedin:** Their backend use Node.js to handle massive amounts of data.
+
+**PayPal:** To handle secure transactions and ensure scalability.
+
+**Uber:** For real-time driver and rider data syncing.
+
+**Trello:** For managing asynchronous updates in real-time boards.
+
+### Is it a Language or a Framework?
+
+Node.js is not a programming language or a framework . but rather a Javascript runtime environmentn= the allows developers to run javaScript outside of vrowser
+
