@@ -20,5 +20,16 @@
 - globalThis
 - Built In Modules In NodeJS
 
+## 07. Modules of Node.js
+
+- Understanding the Node.js Modules System 
+- Encapsulation
+- What Exactly is a Module in Node.js?
+
+## 08. Named Exports in Node.js
+
+- Named & Aggregate Exports in Node.js
+- Key Takeaways
+
 
 
